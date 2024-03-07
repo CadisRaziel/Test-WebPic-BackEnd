@@ -5,6 +5,8 @@
 Criação de um back end onde eu: Crio usuário/Deleto usuário/Atualizo usuário/Listo todos usuários/Listo um usuário/Listo com paginação de usuários.
 
 ### 🎨 Swagger da aplicação
+![image](https://github.com/CadisRaziel/Test-WebPic-BackEnd/assets/70340981/131ed99e-1fbb-463a-b353-7805258af834)
+
 
 #### Ferramentas utilizadas
  - .Net 6
@@ -12,4 +14,4 @@ Criação de um back end onde eu: Crio usuário/Deleto usuário/Atualizo usuári
  - EntityFramework
  - Swagger
 
-Branch: Develop
+Branch: Main
