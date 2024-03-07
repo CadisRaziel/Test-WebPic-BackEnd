@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserApiWebPic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2e1b929d46055da6cc1152a3b6586cf4d5826fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b353a7a2f9b8a119003cdd575815d8466d8e1ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserApiWebPic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserApiWebPic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
