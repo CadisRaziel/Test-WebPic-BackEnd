@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "UserController",
+    "ContainingType": "UserApiWebPic.Controllers.UserController",
     "Method": "GetAll",
     "RelativePath": "User",
     "HttpMethod": "GET",
@@ -10,7 +10,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserController",
+    "ContainingType": "UserApiWebPic.Controllers.UserController",
     "Method": "Post",
     "RelativePath": "User",
     "HttpMethod": "POST",
@@ -26,7 +26,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserController",
+    "ContainingType": "UserApiWebPic.Controllers.UserController",
     "Method": "GetById",
     "RelativePath": "User/{id}",
     "HttpMethod": "GET",
@@ -42,7 +42,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserController",
+    "ContainingType": "UserApiWebPic.Controllers.UserController",
     "Method": "Put",
     "RelativePath": "User/{id}",
     "HttpMethod": "PUT",
@@ -63,7 +63,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserController",
+    "ContainingType": "UserApiWebPic.Controllers.UserController",
     "Method": "Delete",
     "RelativePath": "User/{id}",
     "HttpMethod": "DELETE",
@@ -79,7 +79,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "UserController",
+    "ContainingType": "UserApiWebPic.Controllers.UserController",
     "Method": "GetAllpagination",
     "RelativePath": "User/pagination",
     "HttpMethod": "GET",

@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using UserApiWebPic.Infra.Data;
+using UserApiWebPic.Serivces;
+using UserApiWebPic.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +15,9 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("UserApiDb")));
+
+
+builder.Services.AddScoped<IUserService, UserService>();
 
 // Configurando CORS
 builder.Services.AddCors(options =>
